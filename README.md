@@ -8,10 +8,12 @@
 - 👔 LinkedIn profile: [Thiago Saraiva LinkedIn](https://www.linkedin.com/in/thiago-saraiva-34a7895a/target=blank)
 - 😄 Pronouns: He/His
 
+### I have skills with the technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,java,spring,cs,python,c,cpp,dotnet,mongodb,mysql,firebase)](https://skillicons.dev)
 
+### A brief summary of my Github Stats
 <div>
   <a href="https://github.com/Thisaraiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=dark"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=prussian"/>
 </div>
