@@ -9,11 +9,17 @@
 - 😄 Pronouns: He/His
 
 ### I have skills with the technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,java,spring,cs,python,c,cpp,dotnet,mongodb,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,mongodb,mysql,firebase)](https://skillicons.dev)
 
 ### A brief summary of my Github Stats
 <div>
   <a href="https://github.com/Thisaraiva">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=prussian"/>
+</div>
+
+<div>
+  ![Snake animation](https://github.com/Thisaraiva/Thisaraiva/blob/output/github-contribution-grid-snake.svg)
 </div>
