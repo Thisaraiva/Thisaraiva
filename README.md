@@ -18,6 +18,6 @@
 ### A brief summary of my Github Stats
 <div>
   <a href="https://github.com/Thisaraiva">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=github_dark"/>
+  
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=prussian"/>
 </div>
