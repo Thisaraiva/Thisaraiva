@@ -44,7 +44,7 @@
 
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thisaraiva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Thisaraiva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-frame=true"/>
 </div>
 
 ---
