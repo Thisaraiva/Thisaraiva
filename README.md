@@ -15,26 +15,36 @@
 
 ---
 
+### 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaraiva&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
 ### A brief summary of my Github Stats
-<div>
+<div align="center">
   <a href="https://github.com/Thisaraiva">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=github_dark"/>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=prussian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisaraiva&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaraiva&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-### GitHub Activity
+### 📈 GitHub Activity
 
 | [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thisaraiva&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thisaraiva&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
+
+| [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thisaraiva&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thisaraiva&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 ---
 
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thisaraiva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Thisaraiva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-frame=true"/>
 </div>
 
 ---
@@ -51,4 +61,10 @@
 ### 📊 3D Contribution Graph
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thisaraiva&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
